@@ -1,1 +1,3 @@
-# Advanced-Javascript
+# Advanced Javascript
+
+1. Closure
